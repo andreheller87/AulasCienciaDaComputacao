@@ -1,5 +1,11 @@
 # Olá, Mundo!
  
- Projeto Aula git - GitHub
+ Exercicios de **Ciência Da computação**
  
- Curso De Git-GitHub 
+ _Introdução a Programação_
+ 
+ _Introdução a Computação_
+ 
+ _Estrutura de Computadores_
+ 
+ _Fundamentos Matematicos_
