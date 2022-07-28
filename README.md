@@ -1,6 +1,6 @@
 # Olá, Mundo!
 ***
-## Exercicios de **Ciência Da computação**
+## Matérias de **Ciência Da computação**
  
  * _Introdução a Programação_
  
