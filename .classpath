@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="MateriaIntroducaoAProgramacao/Unidade3/src/|MateriaIntroducaoAProgramacao/Unidade5/src/|MateriaIntroducaoAProgramacao/CacaPalavras/TrabalhoFinal/src/|MateriaPOO/Lista2Exerc02/src/|MateriaPOO/Lista2Exerc06/src/|MateriaPOO/Lista2Exerc08/src/|MateriaPOO/POOLista6/src/|MateriaPOO/Exercicio04Lista2/src/|MateriaIntroducaoAProgramacao/Unidade2/src/|MateriaIntroducaoAProgramacao/Unidade6/src/|MateriaPOO/Lista1/|MateriaIntroducaoAProgramacao/Unidade4Uri/src/|MateriaAlgoritmoseEstruturadeDados/|MateriaPOO/Lista2Exerc03/src/|MateriaIntroducaoAProgramacao/Unidade3Uri/src/|MateriaIntroducaoAProgramacao/Unidade4/Unidade4de13A27/src/|MateriaIntroducaoAProgramacao/Unidade4/Unidade4de01A12/src/|MateriaPOO/POOLista5/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="MateriaAlgoritmoseEstruturadeDados"/>
+	<classpathentry kind="src" path="MateriaIntroducaoAProgramacao/CacaPalavras/TrabalhoFinal/src"/>
+	<classpathentry kind="src" path="MateriaIntroducaoAProgramacao/Unidade2/src"/>
+	<classpathentry kind="src" path="MateriaIntroducaoAProgramacao/Unidade3/src"/>
+	<classpathentry kind="src" path="MateriaIntroducaoAProgramacao/Unidade3Uri/src"/>
+	<classpathentry kind="src" path="MateriaIntroducaoAProgramacao/Unidade4/Unidade4de01A12/src"/>
+	<classpathentry kind="src" path="MateriaIntroducaoAProgramacao/Unidade4/Unidade4de13A27/src"/>
+	<classpathentry kind="src" path="MateriaIntroducaoAProgramacao/Unidade4Uri/src"/>
+	<classpathentry kind="src" path="MateriaIntroducaoAProgramacao/Unidade5/src"/>
+	<classpathentry kind="src" path="MateriaIntroducaoAProgramacao/Unidade6/src"/>
+	<classpathentry kind="src" path="MateriaPOO/Exercicio04Lista2/src"/>
+	<classpathentry kind="src" path="MateriaPOO/Lista1"/>
+	<classpathentry kind="src" path="MateriaPOO/Lista2Exerc02/src"/>
+	<classpathentry kind="src" path="MateriaPOO/Lista2Exerc03/src"/>
+	<classpathentry kind="src" path="MateriaPOO/Lista2Exerc06/src"/>
+	<classpathentry kind="src" path="MateriaPOO/Lista2Exerc08/src"/>
+	<classpathentry kind="src" path="MateriaPOO/POOLista5/src"/>
+	<classpathentry kind="src" path="MateriaPOO/POOLista6/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
